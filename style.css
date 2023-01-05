@@ -1,0 +1,41 @@
+h1{
+    color: #36ddb1
+}
+
+p,h2{
+    text-align: center;
+}
+
+
+/* *{
+    border:solid
+}*/
+
+.header{
+    background-color: #ee4292;
+    display: flex ;
+    justify-content:space-between
+    
+}
+
+.meanu{
+    background-color: #aa7777;
+}
+
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+}
+
+.footer{
+    display: flex ;
+    justify-content: flex-end;
+}
+
+body{
+
+    background-color:rgba(128, 128, 128 )
+}
+
